@@ -1,0 +1,36 @@
+body {
+    overflow: visible !important;
+    background: -webkit-linear-gradient(45deg, #fa7100 10%, #f7e095 90%);
+    background: -moz-linear-gradient(45deg, #fa7100 10%, #f7e095 90%);
+    background: -ms-linear-gradient(45deg, #fa7100 10%, #f7e095 90%);
+    background: -o-linear-gradient(45deg, #fa7100 10%, #f7e095 90%);
+    background: linear-gradient(45deg, #fa7100 10%, #f7e095 90%);
+   }
+
+#title{
+    text-align: left;
+    font-family: 'Arial';
+    font-display: bold;
+    background-image: url("max-verstappen-rbr.avif");
+    background-size:cover;
+    height:  45ch;
+
+  
+ 
+}
+
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+
+
+
+#max{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
